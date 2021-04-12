@@ -1,10 +1,65 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
+    <title>Tags on gabo&#39;s blog</title>
     <link>https://centaurialpha.github.io/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <description>Recent content in Tags on gabo&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://centaurialpha.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Apr 2021 14:17:54 -0300</lastBuildDate><atom:link href="https://centaurialpha.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>algebra relacional</title>
+      <link>https://centaurialpha.github.io/tags/algebra-relacional/</link>
+      <pubDate>Sat, 03 Apr 2021 14:17:54 -0300</pubDate>
+      
+      <guid>https://centaurialpha.github.io/tags/algebra-relacional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pireal</title>
+      <link>https://centaurialpha.github.io/tags/pireal/</link>
+      <pubDate>Sat, 03 Apr 2021 14:17:54 -0300</pubDate>
+      
+      <guid>https://centaurialpha.github.io/tags/pireal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://centaurialpha.github.io/tags/python/</link>
+      <pubDate>Sat, 03 Apr 2021 14:17:54 -0300</pubDate>
+      
+      <guid>https://centaurialpha.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>feriado</title>
+      <link>https://centaurialpha.github.io/tags/feriado/</link>
+      <pubDate>Mon, 01 Feb 2021 03:06:38 -0300</pubDate>
+      
+      <guid>https://centaurialpha.github.io/tags/feriado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://centaurialpha.github.io/tags/linux/</link>
+      <pubDate>Mon, 01 Feb 2021 03:06:38 -0300</pubDate>
+      
+      <guid>https://centaurialpha.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>polybar</title>
+      <link>https://centaurialpha.github.io/tags/polybar/</link>
+      <pubDate>Mon, 01 Feb 2021 03:06:38 -0300</pubDate>
+      
+      <guid>https://centaurialpha.github.io/tags/polybar/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

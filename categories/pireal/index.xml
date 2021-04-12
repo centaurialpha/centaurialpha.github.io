@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pireal on gabo&#39;s blog</title>
+    <link>https://centaurialpha.github.io/categories/pireal/</link>
+    <description>Recent content in pireal on gabo&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Apr 2021 14:17:54 -0300</lastBuildDate><atom:link href="https://centaurialpha.github.io/categories/pireal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pireal 3.1.0 is out!</title>
+      <link>https://centaurialpha.github.io/posts/pireal-3.1.0-disponible/</link>
+      <pubDate>Sat, 03 Apr 2021 14:17:54 -0300</pubDate>
+      
+      <guid>https://centaurialpha.github.io/posts/pireal-3.1.0-disponible/</guid>
+      <description>Tengo el agrado de anunciar, luego de más de dos años, una nueva versión de Pireal.
+¿Qué es Pireal?    Pireal es un intérprete de Álgebra Relacional.
+Permite crear base de datos, relaciones y ejutar consultas sobre éstas, todo desde la misma GUI de Pireal.
+Lo interesante de Pireal es que posee su propio intérprete, construido desde cero. En futuros posts voy a explicar como se hizo cada parte del intérprete.</description>
+    </item>
+    
+  </channel>
+</rss>
