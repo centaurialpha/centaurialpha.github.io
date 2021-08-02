@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>gabo&#39;s blog</title>
+    <title>Terminal</title>
     <link>https://centaurialpha.github.io/</link>
-    <description>Recent content on gabo&#39;s blog</description>
+    <description>Recent content on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 03 Apr 2021 14:17:54 -0300</lastBuildDate><atom:link href="https://centaurialpha.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -14,9 +14,42 @@
       
       <guid>https://centaurialpha.github.io/posts/pireal-3.1.0-disponible/</guid>
       <description>Tengo el agrado de anunciar, luego de más de dos años, una nueva versión de Pireal.
-¿Qué es Pireal?    Pireal es un intérprete de Álgebra Relacional.
+¿Qué es Pireal? Pireal es un intérprete de Álgebra Relacional.
 Permite crear base de datos, relaciones y ejutar consultas sobre éstas, todo desde la misma GUI de Pireal.
 Lo interesante de Pireal es que posee su propio intérprete, construido desde cero. En futuros posts voy a explicar como se hizo cada parte del intérprete.</description>
+      <content>&lt;p&gt;Tengo el agrado de anunciar, luego de más de dos años, una nueva versión de &lt;a href=&#34;https://github.com/centaurialpha/pireal&#34;&gt;Pireal&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;qué-es-pireal&#34;&gt;¿Qué es Pireal?&lt;/h2&gt;
+&lt;p&gt;Pireal es un &lt;strong&gt;intérprete de &lt;a href=&#34;https://es.wikipedia.org/wiki/%C3%81lgebra_relacional&#34;&gt;Álgebra Relacional&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Permite crear base de datos, relaciones y ejutar
+consultas sobre éstas, todo desde la misma GUI de Pireal.&lt;/p&gt;
+&lt;p&gt;Lo interesante de Pireal es que posee su propio intérprete, construido desde cero. En futuros posts voy a
+explicar como se hizo cada parte del intérprete.&lt;/p&gt;
+&lt;h2 id=&#34;qué-cambios-incluye-la-nueva-versión&#34;&gt;¿Qué cambios incluye la nueva versión?&lt;/h2&gt;
+&lt;p&gt;Los cambios más importantes se enumeran a continuación:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Nueva GUI.&lt;/li&gt;
+&lt;li&gt;Dark mode.&lt;/li&gt;
+&lt;li&gt;Nuevo sistema de configuraciones.&lt;/li&gt;
+&lt;li&gt;GUI en Inglés (por defecto) y Español.&lt;/li&gt;
+&lt;li&gt;100% código Python, se eliminó código QML.&lt;/li&gt;
+&lt;li&gt;Nuevo instalador (Qt Framework Installer).&lt;/li&gt;
+&lt;li&gt;Y muchos bugs fixes&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Para una lista detallada, se puede ver el &lt;a href=&#34;https://github.com/centaurialpha/pireal/releases/tag/v3.1.0&#34;&gt;changelog&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h2&gt;
+&lt;h3 id=&#34;start-page&#34;&gt;&lt;code&gt;Start Page&lt;/code&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://centaurialpha.github.io/img/pireal-start-page.png&#34; alt=&#34;startpage&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;en-acción&#34;&gt;&lt;code&gt;En acción&lt;/code&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://centaurialpha.github.io/img/pireal-action.png&#34; alt=&#34;pireal-action&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;descargas&#34;&gt;Descargas&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Windows installer: &lt;a href=&#34;https://github.com/centaurialpha/pireal/releases/download/v3.1.0/pireal-3.1.0-win-installer.exe&#34;&gt;pireal 3 1 0 win installer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Debian/Ubuntu package: &lt;a href=&#34;https://github.com/centaurialpha/pireal/releases/download/v3.1.0/pireal_3.1.0_all.deb&#34;&gt;pireal_3 1 0_all deb&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;importante&#34;&gt;&lt;code&gt;IMPORTANTE&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;Ya que se ha cambiado el instalador, es necesario desinstalar cualquier versión anterior
+de Pireal.&lt;/p&gt;
+</content>
     </item>
     
     <item>
@@ -26,9 +59,78 @@ Lo interesante de Pireal es que posee su propio intérprete, construido desde ce
       
       <guid>https://centaurialpha.github.io/posts/feriados-polybar/</guid>
       <description>La idea es tener un módulo en Polybar que muestre información del próximo feriado en Argentina y se vea algo así:
-Requisitos     Polybar 🙃. Script feriados ™️. Dunst (opcional).  Vamos a usar éste script que escribí hace un tiempo usando la API pública de Feriados Argentinos.
+Requisitos  Polybar 🙃. Script feriados ™️. Dunst (opcional).  Vamos a usar éste script que escribí hace un tiempo usando la API pública de Feriados Argentinos.
 Ejecutando el script sin argumentos, nos tira algo así:
-$ ./feriado Próximo feriado: 15 Feb Motivo: Carnaval Tipo: inamovible Más información: https://es.</description>
+$ ./feriado Próximo feriado: 15 Feb Motivo: Carnaval Tipo: inamovible Más información: https://es.wikipedia.org/wiki/Carnaval Pasándole un --help:</description>
+      <content>&lt;p&gt;La idea es tener un módulo en &lt;code&gt;Polybar&lt;/code&gt; que muestre información del próximo feriado en Argentina y se vea algo así:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://centaurialpha.github.io/img/module-feriado.png&#34; alt=&#34;modulo-feriado&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;requisitos&#34;&gt;Requisitos&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://polybar.github.io/&#34;&gt;Polybar&lt;/a&gt; 🙃.&lt;/li&gt;
+&lt;li&gt;Script &lt;a href=&#34;https://github.com/centaurialpha/feriado-polybar&#34;&gt;feriados&lt;/a&gt; ™️.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dunst-project.org/&#34;&gt;Dunst&lt;/a&gt; (opcional).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Vamos a usar &lt;a href=&#34;https://github.com/centaurialpha/feriado&#34;&gt;éste script&lt;/a&gt; que escribí hace un tiempo usando la
+&lt;a href=&#34;https://pjnovas.gitbooks.io/no-laborables/content/&#34;&gt;API pública de Feriados Argentinos&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ejecutando el script sin argumentos, nos tira algo así:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$ ./feriado
+Próximo feriado: 15 Feb
+Motivo: Carnaval
+Tipo: inamovible
+Más información: https://es.wikipedia.org/wiki/Carnaval
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Pasándole un &lt;code&gt;--help&lt;/code&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$ ./feriado --help
+usage: feriados [-h] [-f] [-i] [--open-info] [-m]
+
+optional arguments:
+  -h, --help    show this help message and exit
+  -f, --fecha   Muestra la fecha del feriado
+  -i, --info    Muestra la URL a la información sobre el feriado
+  --open-info   Abre la URL de la info en el navegador
+  -m, --motivo  Muestra el motivo del feriado
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Para el módulo de Polybar vamos a usar el argumento &lt;code&gt;-f&lt;/code&gt;/&lt;code&gt;--fecha&lt;/code&gt;, que va a mostrar la fecha del próximo feriado:&lt;/p&gt;
+&lt;p&gt;Copiamos el script a un lugar adecuado. Yo suelo tener una carpeta &lt;code&gt;~/.scripts&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Agregamos un nuevo módulo en las configuraciones de Polybar, en mi caso tengo un archivo
+&lt;code&gt;~/.config/polybar/modules.ini&lt;/code&gt;:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-ini&#34; data-lang=&#34;ini&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;[module/feriado]&lt;/span&gt;
+&lt;span style=&#34;color:#a6e22e&#34;&gt;type&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;custom/script&lt;/span&gt;
+&lt;span style=&#34;color:#a6e22e&#34;&gt;exec&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;$HOME/.scripts/feriado -f&lt;/span&gt;
+&lt;span style=&#34;color:#a6e22e&#34;&gt;format&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;lt;label&amp;gt;&lt;/span&gt;
+&lt;span style=&#34;color:#a6e22e&#34;&gt;format-prefix&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34; &amp;#34;&lt;/span&gt;
+&lt;span style=&#34;color:#a6e22e&#34;&gt;format-prefix-foreground&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;${color.teal}&lt;/span&gt;
+&lt;span style=&#34;color:#a6e22e&#34;&gt;format-padding&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;1&lt;/span&gt;
+&lt;span style=&#34;color:#a6e22e&#34;&gt;interval&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;43200&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Podemos aprovechar los otros argumentos del script para darle más funcionalidad al módulo:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;-i&lt;/code&gt;/&lt;code&gt;--info&lt;/code&gt;: Para abrir el navegador cuando hagamos click izquierdo (opcional).&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-m&lt;/code&gt;/&lt;code&gt;--motivo&lt;/code&gt;: Para mostrar una notificación cuando hagamos click derecho (opcional).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Entonces la configuración del módulo quedaría:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-diff&#34; data-lang=&#34;diff&#34;&gt;[module/feriado]
+type = custom/script
+exec = $HOME/.scripts/feriado -f
+format = &amp;lt;label&amp;gt;
+format-prefix = &amp;#34; &amp;#34;
+format-prefix-foreground = ${color.teal}
+format-padding = 1
+interval = 43200
+&lt;span style=&#34;color:#a6e22e&#34;&gt;+click-left = $HOME/.scripts/feriado -i
+&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;+click-right = dunstify $($HOME/.scripts/feriado -m)
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Usamos la salida de &lt;code&gt;feriado -m&lt;/code&gt; y se la pasamos a dunst con dunstify para tener una notificación que se verá
+más o menos así:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://centaurialpha.github.io/img/notification_feriado.png&#34; alt=&#34;notificación-feriado&#34;&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://centaurialpha.github.io/about/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://centaurialpha.github.io/about/</guid>
+      <description>jejejeje</description>
+      <content>&lt;p&gt;jejejeje&lt;/p&gt;
+</content>
     </item>
     
   </channel>

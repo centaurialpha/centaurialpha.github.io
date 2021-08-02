@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on gabo&#39;s blog</title>
+    <title>Tags on Terminal</title>
     <link>https://centaurialpha.github.io/tags/</link>
-    <description>Recent content in Tags on gabo&#39;s blog</description>
+    <description>Recent content in Tags on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 03 Apr 2021 14:17:54 -0300</lastBuildDate><atom:link href="https://centaurialpha.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -14,6 +14,7 @@
       
       <guid>https://centaurialpha.github.io/tags/algebra-relacional/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -23,6 +24,7 @@
       
       <guid>https://centaurialpha.github.io/tags/pireal/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -32,6 +34,7 @@
       
       <guid>https://centaurialpha.github.io/tags/python/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -41,6 +44,7 @@
       
       <guid>https://centaurialpha.github.io/tags/feriado/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -50,6 +54,7 @@
       
       <guid>https://centaurialpha.github.io/tags/linux/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -59,6 +64,7 @@
       
       <guid>https://centaurialpha.github.io/tags/polybar/</guid>
       <description></description>
+      <content></content>
     </item>
     
   </channel>

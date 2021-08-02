@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>pireal on gabo&#39;s blog</title>
+    <title>pireal on Terminal</title>
     <link>https://centaurialpha.github.io/tags/pireal/</link>
-    <description>Recent content in pireal on gabo&#39;s blog</description>
+    <description>Recent content in pireal on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 03 Apr 2021 14:17:54 -0300</lastBuildDate><atom:link href="https://centaurialpha.github.io/tags/pireal/index.xml" rel="self" type="application/rss+xml" />
@@ -14,9 +14,42 @@
       
       <guid>https://centaurialpha.github.io/posts/pireal-3.1.0-disponible/</guid>
       <description>Tengo el agrado de anunciar, luego de más de dos años, una nueva versión de Pireal.
-¿Qué es Pireal?    Pireal es un intérprete de Álgebra Relacional.
+¿Qué es Pireal? Pireal es un intérprete de Álgebra Relacional.
 Permite crear base de datos, relaciones y ejutar consultas sobre éstas, todo desde la misma GUI de Pireal.
 Lo interesante de Pireal es que posee su propio intérprete, construido desde cero. En futuros posts voy a explicar como se hizo cada parte del intérprete.</description>
+      <content>&lt;p&gt;Tengo el agrado de anunciar, luego de más de dos años, una nueva versión de &lt;a href=&#34;https://github.com/centaurialpha/pireal&#34;&gt;Pireal&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;qué-es-pireal&#34;&gt;¿Qué es Pireal?&lt;/h2&gt;
+&lt;p&gt;Pireal es un &lt;strong&gt;intérprete de &lt;a href=&#34;https://es.wikipedia.org/wiki/%C3%81lgebra_relacional&#34;&gt;Álgebra Relacional&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Permite crear base de datos, relaciones y ejutar
+consultas sobre éstas, todo desde la misma GUI de Pireal.&lt;/p&gt;
+&lt;p&gt;Lo interesante de Pireal es que posee su propio intérprete, construido desde cero. En futuros posts voy a
+explicar como se hizo cada parte del intérprete.&lt;/p&gt;
+&lt;h2 id=&#34;qué-cambios-incluye-la-nueva-versión&#34;&gt;¿Qué cambios incluye la nueva versión?&lt;/h2&gt;
+&lt;p&gt;Los cambios más importantes se enumeran a continuación:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Nueva GUI.&lt;/li&gt;
+&lt;li&gt;Dark mode.&lt;/li&gt;
+&lt;li&gt;Nuevo sistema de configuraciones.&lt;/li&gt;
+&lt;li&gt;GUI en Inglés (por defecto) y Español.&lt;/li&gt;
+&lt;li&gt;100% código Python, se eliminó código QML.&lt;/li&gt;
+&lt;li&gt;Nuevo instalador (Qt Framework Installer).&lt;/li&gt;
+&lt;li&gt;Y muchos bugs fixes&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Para una lista detallada, se puede ver el &lt;a href=&#34;https://github.com/centaurialpha/pireal/releases/tag/v3.1.0&#34;&gt;changelog&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h2&gt;
+&lt;h3 id=&#34;start-page&#34;&gt;&lt;code&gt;Start Page&lt;/code&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://centaurialpha.github.io/img/pireal-start-page.png&#34; alt=&#34;startpage&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;en-acción&#34;&gt;&lt;code&gt;En acción&lt;/code&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://centaurialpha.github.io/img/pireal-action.png&#34; alt=&#34;pireal-action&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;descargas&#34;&gt;Descargas&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Windows installer: &lt;a href=&#34;https://github.com/centaurialpha/pireal/releases/download/v3.1.0/pireal-3.1.0-win-installer.exe&#34;&gt;pireal 3 1 0 win installer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Debian/Ubuntu package: &lt;a href=&#34;https://github.com/centaurialpha/pireal/releases/download/v3.1.0/pireal_3.1.0_all.deb&#34;&gt;pireal_3 1 0_all deb&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;importante&#34;&gt;&lt;code&gt;IMPORTANTE&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;Ya que se ha cambiado el instalador, es necesario desinstalar cualquier versión anterior
+de Pireal.&lt;/p&gt;
+</content>
     </item>
     
   </channel>
